@@ -1,0 +1,21 @@
+# django specific ignores
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+# virtual environment
+venv/
+env/
+.venv/
+venv-vegapunk/
+
+# environment variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
